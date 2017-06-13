@@ -1,0 +1,26 @@
+
+h2 {
+
+  font-size: 20px;
+  color: #0086b3;
+  margin-top: 300px;
+}
+
+
+#height {
+  margin-left: 650px;
+  margin-top: 200px;
+}
+
+#weight {
+  margin-left: 650px;
+
+}
+
+#button {
+  margin-left: 659px;
+}
+
+#results {
+  font-size: 20px;
+}
